@@ -1,1 +1,1 @@
-# automatae-shopping
+# automate-shopping
